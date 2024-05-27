@@ -2,18 +2,20 @@
 
 ## 1
 - Crear las relaciones en la tabla movies con la table de generos y la de actores
-
+OK
 ## 2
 -  Crear la relacion en la tabla Generos con la tabla movies
+OK
 
 ## 3 
 - Crear la relacion en la tabla actores con la tabla movies.
 
 ## 4
-- En controlador de show, (detalle de pelicula), incluir en la query las tablas de generos y actores asociadas.
+- En controlador de show, (detalle de pelicula), incluir en la query las tablas de generos y actores asociadas.OK
 
 ## 5 
 - En la vista de movie mostrar el genero de la pelicula y los actores q participaron en ella. 
+OK
 
 ## 6
 - Control de acceso en la vista de crear pelicula, si un usuario no esta logueado no podra crear pelicula
